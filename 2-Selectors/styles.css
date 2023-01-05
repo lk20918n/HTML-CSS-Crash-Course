@@ -1,0 +1,11 @@
+#red {
+  color: palevioletred;
+}
+
+h1 {
+  color: lightblue;
+}
+a[href="https://youtube.com"]
+{
+  color: peru;
+}

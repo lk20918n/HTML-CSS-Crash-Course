@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  color: forestgreen;
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+p {
+  background-color: lightblue;
+  color: brown;
+  min-height: 100px;
+  font-size: 1.25 rem;
+  width: 30%;
+}
